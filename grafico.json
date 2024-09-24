@@ -1,0 +1,45 @@
+{
+  "entrevista": {
+    "total_participantes": 1000000,
+    "perguntas": [
+      {
+        "pergunta": "Você está ciente dos supercomputadores mais potentes do mundo?",
+        "respostas": {
+          "sim": 850000,
+          "nao": 150000
+        }
+      },
+      {
+        "pergunta": "Qual supercomputador você acha mais interessante?",
+        "respostas": {
+          "Fugaku": 300000,
+          "Frontier": 250000,
+          "Summit": 200000,
+          "Outros": 250000
+        }
+      },
+      {
+        "pergunta": "Você acredita que esses supercomputadores podem ajudar a resolver problemas globais?",
+        "respostas": {
+          "sim": 900000,
+          "nao": 100000
+        }
+      },
+      {
+        "pergunta": "Você já ouviu falar de algum supercomputador específico?",
+        "respostas": {
+          "Summit": 600000,
+          "Fugaku": 200000,
+          "Outros": 200000
+        }
+      },
+      {
+        "pergunta": "Você acha que esses supercomputadores são acessíveis para pesquisadores em todo o mundo?",
+        "respostas": {
+          "sim": 300000,
+          "nao": 700000
+        }
+      }
+    ]
+  }
+}
