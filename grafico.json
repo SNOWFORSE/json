@@ -1,44 +1,56 @@
 {
   "entrevista": {
     "total_participantes": 1000000,
-    "perguntas": [
+    "resultados": [
       {
-        "pergunta": "Você está ciente dos supercomputadores mais potentes do mundo?",
-        "respostas": {
-          "sim": 850000,
-          "nao": 150000
-        }
+        "modelo": "Samsung Galaxy A54",
+        "votos": 400000,
+        "porcentagem": 40
       },
       {
-        "pergunta": "Qual supercomputador você acha mais interessante?",
-        "respostas": {
-          "Fugaku": 300000,
-          "Frontier": 250000,
-          "Summit": 200000,
-          "Outros": 250000
-        }
+        "modelo": "Xiaomi Redmi Note 12",
+        "votos": 300000,
+        "porcentagem": 30
       },
       {
-        "pergunta": "Você acredita que esses supercomputadores podem ajudar a resolver problemas globais?",
-        "respostas": {
-          "sim": 900000,
-          "nao": 100000
-        }
+        "modelo": "Motorola Moto G73",
+        "votos": 150000,
+        "porcentagem": 15
       },
       {
-        "pergunta": "Você já ouviu falar de algum supercomputador específico?",
-        "respostas": {
-          "Summit": 600000,
-          "Fugaku": 200000,
-          "Outros": 200000
-        }
+        "modelo": "Poco X5 Pro",
+        "votos": 100000,
+        "porcentagem": 10
       },
       {
-        "pergunta": "Você acha que esses supercomputadores são acessíveis para pesquisadores em todo o mundo?",
-        "respostas": {
-          "sim": 300000,
-          "nao": 700000
-        }
+        "modelo": "Realme 11",
+        "votos": 30000,
+        "porcentagem": 3
+      },
+      {
+        "modelo": "OnePlus Nord CE 3",
+        "votos": 10000,
+        "porcentagem": 1
+      },
+      {
+        "modelo": "Samsung Galaxy M34",
+        "votos": 5000,
+        "porcentagem": 0.5
+      },
+      {
+        "modelo": "Vivo V27",
+        "votos": 3000,
+        "porcentagem": 0.3
+      },
+      {
+        "modelo": "Infinix Note 30",
+        "votos": 2000,
+        "porcentagem": 0.2
+      },
+      {
+        "modelo": "Tecno Pova 5",
+        "votos": 1000,
+        "porcentagem": 0.1
       }
     ]
   }
