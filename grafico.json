@@ -1,57 +1,12 @@
-{
-  "entrevista": {
-    "total_participantes": 1000000,
-    "resultados": [
-      {
-        "modelo": "Samsung Galaxy A54",
-        "votos": 400000,
-        "porcentagem": 40
-      },
-      {
-        "modelo": "Xiaomi Redmi Note 12",
-        "votos": 300000,
-        "porcentagem": 30
-      },
-      {
-        "modelo": "Motorola Moto G73",
-        "votos": 150000,
-        "porcentagem": 15
-      },
-      {
-        "modelo": "Poco X5 Pro",
-        "votos": 100000,
-        "porcentagem": 10
-      },
-      {
-        "modelo": "Realme 11",
-        "votos": 30000,
-        "porcentagem": 3
-      },
-      {
-        "modelo": "OnePlus Nord CE 3",
-        "votos": 10000,
-        "porcentagem": 1
-      },
-      {
-        "modelo": "Samsung Galaxy M34",
-        "votos": 5000,
-        "porcentagem": 0.5
-      },
-      {
-        "modelo": "Vivo V27",
-        "votos": 3000,
-        "porcentagem": 0.3
-      },
-      {
-        "modelo": "Infinix Note 30",
-        "votos": 2000,
-        "porcentagem": 0.2
-      },
-      {
-        "modelo": "Tecno Pova 5",
-        "votos": 1000,
-        "porcentagem": 0.1
-      }
-    ]
-  }
-}
+[
+  { "titulo": "Samsung Galaxy A54", "porcentagem": 40 },
+  { "titulo": "Xiaomi Redmi Note 12", "porcentagem": 30 },
+  { "titulo": "Motorola Moto G73", "porcentagem": 15 },
+  { "titulo": "Poco X5 Pro", "porcentagem": 10 },
+  { "titulo": "Realme 11", "porcentagem": 3 },
+  { "titulo": "OnePlus Nord CE 3", "porcentagem": 1 },
+  { "titulo": "Samsung Galaxy M34", "porcentagem": 0.5 },
+  { "titulo": "Vivo V27", "porcentagem": 0.3 },
+  { "titulo": "Infinix Note 30", "porcentagem": 0.2 },
+  { "titulo": "Tecno Pova 5", "porcentagem": 0.1 }
+]
