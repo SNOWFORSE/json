@@ -1,12 +1,12 @@
-[
-  { "titulo": "Samsung Galaxy A54", "porcentagem": 40 },
-  { "titulo": "Xiaomi Redmi Note 12", "porcentagem": 30 },
-  { "titulo": "Motorola Moto G73", "porcentagem": 15 },
-  { "titulo": "Poco X5 Pro", "porcentagem": 10 },
-  { "titulo": "Realme 11", "porcentagem": 3 },
-  { "titulo": "OnePlus Nord CE 3", "porcentagem": 1 },
-  { "titulo": "Samsung Galaxy M34", "porcentagem": 0.5 },
-  { "titulo": "Vivo V27", "porcentagem": 0.3 },
-  { "titulo": "Infinix Note 30", "porcentagem": 0.2 },
-  { "titulo": "Tecno Pova 5", "porcentagem": 0.1 }
-]
+{
+  "Samsung Galaxy A54": { "porcentagem": 40 },
+  "Xiaomi Redmi Note 12": { "porcentagem": 30 },
+  "Motorola Moto G73": { "porcentagem": 15 },
+  "Poco X5 Pro": { "porcentagem": 10 },
+  "Realme 11": { "porcentagem": 3 },
+  "OnePlus Nord CE 3": { "porcentagem": 1 },
+  "Samsung Galaxy M34": { "porcentagem": 0.5 },
+  "Vivo V27": { "porcentagem": 0.3 },
+  "Infinix Note 30": { "porcentagem": 0.2 },
+  "Tecno Pova 5": { "porcentagem": 0.1 }
+}
