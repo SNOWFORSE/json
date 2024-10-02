@@ -1,6 +1,10 @@
 {
-  "América": "Samsung Galaxy A54: 40, Xiaomi Redmi Note 12: 30",
-  "Europa": "Motorola Moto G73: 15, Poco X5 Pro: 10",
-  "Ásia": "Realme 11: 3, OnePlus Nord CE 3: 1",
-  "África": "Infinix Note 30: 0.2, Tecno Pova 5: 0.1"
+  "Samsung Galaxy A54": 40,
+  "Xiaomi Redmi Note 12": 30,
+  "Motorola Moto G73": 15,
+  "Poco X5 Pro": 10,
+  "Realme 11": 3,
+  "OnePlus Nord CE 3": 1,
+  "Infinix Note 30": 0.2,
+  "Tecno Pova 5": 0.1
 }
