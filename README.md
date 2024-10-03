@@ -1,1 +1,14 @@
 isso
+sso
+so
+o
+os
+oss
+ossi
+issi
+ssi
+si
+i
+is
+iss
+issi
